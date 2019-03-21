@@ -1,0 +1,15 @@
+Wed Mar 20 16:18:46 2019
+ERROR: Could not read activation key
+
+Wed Mar 20 16:22:15 2019
+ERROR: Could not read activation key
+
+Wed Mar 20 16:25:50 2019
+ERROR: GLEW initalization error: Missing GL version
+
+Wed Mar 20 16:30:24 2019
+ERROR: GLEW initalization error: Missing GL version
+
+Wed Mar 20 16:36:19 2019
+ERROR: GLEW initalization error: Missing GL version
+
